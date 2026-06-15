@@ -66,4 +66,4 @@ I care about clean architecture, pragmatic design, and code that survives the ne
 
 - [LinkedIn](https://www.linkedin.com/in/jeanlopes6/)
 - [GitHub](https://github.com/jeanlopes)
-- 📍 Porto Alegre, Brazil
+- 📍 Rolante, Brazil
