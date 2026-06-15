@@ -6,7 +6,7 @@
     <code>
 > jeanlopes --profile
 Senior Software Developer · Agentic Developer · AI Tooling Engineer
-Porto Alegre, Brazil
+Rolante, Brazil
     </code>
   </pre>
 </div>
